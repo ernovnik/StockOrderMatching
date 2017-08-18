@@ -3,9 +3,6 @@ package ru.stockorder
 import java.io._
 
 object Entry extends App {
-
-
-
   val repository = new Repository
   val clients = repository.getClients
   val orders = repository.getOrders
