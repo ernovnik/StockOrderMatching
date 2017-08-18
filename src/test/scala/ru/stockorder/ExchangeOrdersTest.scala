@@ -1,3 +1,5 @@
+package ru.stockorder
+
 import org.scalatest.FunSuite
 
 class ExchangeOrdersTestSuite extends FunSuite{

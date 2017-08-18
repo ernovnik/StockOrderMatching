@@ -1,3 +1,5 @@
+package ru.stockorder
+
 import java.io._
 
 object Entry extends App {

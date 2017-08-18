@@ -1,3 +1,5 @@
+package ru.stockorder
+
 import scala.annotation.tailrec
 
 object OrderRequest {

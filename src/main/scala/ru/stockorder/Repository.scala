@@ -1,3 +1,5 @@
+package ru.stockorder
+
 import scala.io.Source
 import scala.language.dynamics
 
